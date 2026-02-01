@@ -1,1 +1,0 @@
-Here, a new section on `numpy` Arrays and, maybe, `pandas` DataFrames will be added.

@@ -1,0 +1,1 @@
+We will probably NOT use this chapter in Phy 225 this semester. However, you are welcome to explore it on your own if you wish.
