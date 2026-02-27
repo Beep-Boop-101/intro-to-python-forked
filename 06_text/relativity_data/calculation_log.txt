@@ -1,0 +1,16 @@
+calculation 1: v = 5.000e+03 m/s, γ = 1.000000000139
+calculation 2: v = 1.500e+04 m/s, γ = 1.000000001252
+calculation 3: v = 5.000e+04 m/s, γ = 1.000000013907
+calculation 4: v = 1.499e+08 m/s, γ = 1.154700538379
+calculation 1: v = 5.000e+03 m/s, γ = 1.000000000139
+calculation 2: v = 1.500e+04 m/s, γ = 1.000000001252
+calculation 3: v = 5.000e+04 m/s, γ = 1.000000013907
+calculation 4: v = 1.499e+08 m/s, γ = 1.154700538379
+calculation 1: v = 5.000e+03 m/s, γ = 1.000000000139
+calculation 2: v = 1.500e+04 m/s, γ = 1.000000001252
+calculation 3: v = 5.000e+04 m/s, γ = 1.000000013907
+calculation 4: v = 1.499e+08 m/s, γ = 1.154700538379
+calculation 1: v = 5000 m/s, γ = 1.000000000139
+calculation 2: v = 15000 m/s, γ = 1.000000001252
+calculation 3: v = 50000 m/s, γ = 1.000000013907
+calculation 4: v = 1.499e+08 m/s, γ = 1.154700538379
